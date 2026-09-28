@@ -24,6 +24,8 @@
     "ipv4",
     "list",
     "cli",
-    "toolkit"
+    "toolkit",
+    "v1",
+    "stable"
   ]
 }
